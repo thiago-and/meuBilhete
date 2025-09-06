@@ -51,6 +51,12 @@ MeuBilhete é uma API REST desenvolvida em Java com Spring Boot para gerenciar b
 | PATCH | `/bilhete/{id}` | Atualiza um bilhete |
 | DELETE | `/bilhete/{id}` | Exclui um bilhete |
 
+### 📚 Documentação Completa da API
+
+Para uma documentação detalhada com exemplos de todas as requisições e respostas, acesse:
+
+**[📋 Documentação Postman](https://documenter.getpostman.com/view/47141101/2sB3Hkr1ZR)**
+
 ### Exemplos de Uso
 
 #### Cadastrar Bilhete
