@@ -1,6 +1,6 @@
 # 🎲 MeuBilhete
 
-> Organize e confira o resultado de seus bilhetes de loteria!
+> Organize os seus bilhetes de loteria!
 
 ## 📋 Sobre o Projeto
 
